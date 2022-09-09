@@ -1,6 +1,6 @@
-![This is an image](https://github.com/admmoore21/admmoore21/blob/main/github_background.jpg)
+<p align="center">![This is an image](https://github.com/admmoore21/admmoore21/blob/main/github_background.jpg)
 
-##About Me
+## About Me
 
 My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'm currently loving the process of learning the basics of coding with Java.  My goal is to develop and eventually hone my skills in software development in order to establish a new fulfilling career.
 
