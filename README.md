@@ -1,3 +1,4 @@
+![This is an image](https://github.com/admmoore21/admmoore21/blob/main/github_background.jpg)
 # Hello
 ##Welcome to My GitHub Page!
 My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'm currently loving the process of learning the basics of coding with Java.
@@ -5,7 +6,7 @@ My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'
 
 
 
-#0d1117
+
 <!--
 **admmoore21/admmoore21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
