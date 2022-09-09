@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello
+#
+#My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'm currently loving the process of learning the basics of coding with Java.
 <!--
 **admmoore21/admmoore21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
