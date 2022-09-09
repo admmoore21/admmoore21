@@ -1,4 +1,6 @@
-![This is an image](github_background.jpg)
+<p align="center">
+  <img width="735" weight="218" src="https://raw.githubusercontent.com/admmoore21/admmoore21/main/github_background.jpg">
+</p>
 
 ## About Me
 
