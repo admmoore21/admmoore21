@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/admmoore21/admmoore21/blob/main/github_background.jpg" /></a></p>
+![This is an image](github_background.jpg)
 
 ## About Me
 
