@@ -1,3 +1,7 @@
+##  <p align="center"> :man_beard: Well Hello There
+</p>
+
+
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/admmoore21/admmoore21/54752081eeaacec1d7094780fb22d1d77d900915/HeaderDark.jpg">
@@ -6,9 +10,18 @@
 </picture>
 </p>
 
-About Me
+## :pencil2: About Me
 
 My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'm currently loving the process of learning the basics of coding with Java.  My goal is to develop and eventually hone my skills in software development in order to establish a new fulfilling career.
+
+
+
+### My Links
+[![Linkedin Badge](https://img.shields.io/badge/-Adam_Moore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-moore-2101aa11b/)](https://www.linkedin.com/in/adam-moore-2101aa11b/)
+
+
+
+
 
 
 <!--
