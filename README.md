@@ -17,7 +17,7 @@ My name is Adam Moore and I'm in the middle of my Promineo back end bootcamp. I'
 </br>
 
 ## My Links
-[![Linkedin Badge](https://img.shields.io/badge/-Adam_Moore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-moore-2101aa11b/)](https://www.linkedin.com/in/adam-moore-2101aa11b/) [![Youtube Badge](https://img.shields.io/badge/-Adam_Moore-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMG2PRuY-2TmI7frB5HWnwA)](https://www.youtube.com/channel/UCMG2PRuY-2TmI7frB5HWnwA)
+[![Linkedin Badge](https://img.shields.io/badge/-Adam_Moore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-moore-2101aa11b/)](https://www.linkedin.com/in/adam-moore-2101aa11b/) [![Youtube Badge](https://img.shields.io/badge/-Adam_Moore-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMG2PRuY-2TmI7frB5HWnwA)](https://www.youtube.com/channel/UCMG2PRuY-2TmI7frB5HWnwA) [e-mail](mailto:adam.moore2036@gmail.com)
 
 
 </br>
