@@ -1,12 +1,6 @@
-#  <p align="center"> :man_beard: Well Hello There
-</p>
-
-
 <p align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/admmoore21/admmoore21/54752081eeaacec1d7094780fb22d1d77d900915/HeaderDark.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/admmoore21/admmoore21/54752081eeaacec1d7094780fb22d1d77d900915/HeaderLight.jpg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/admmoore21/admmoore21/blob/main/github-header-image.png">
 </picture>
 </p>
 </br>
