@@ -1,8 +1,4 @@
-<p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/admmoore21/admmoore21/blob/main/github-header-image.png">
-</picture>
-</p>
+![alt text](https://github.com/admmoore21/admmoore21/blob/main/github-header-image.png?raw=true)
 </br>
 
 ## :pencil2: About Me
